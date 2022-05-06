@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "NanoSchemdownload-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/NanoSchemdownload-eagle-import.kicad_sym")(options "")(descr ""))
+)
