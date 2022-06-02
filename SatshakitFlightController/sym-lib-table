@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "satshakit_fc-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/satshakit_fc-eagle-import.kicad_sym")(options "")(descr ""))
+)
